@@ -8,5 +8,6 @@
 	"coui://ui/mods/metapod/systems/swamplandia.pas",
 	"coui://ui/mods/metapod/systems/ring_world.pas",
 	"coui://ui/mods/metapod/systems/veggie_system.pas",
+	"coui://ui/mods/metapod/systems/irix.pas",
 	"coui://ui/mods/metapod/systems/sprouts.pas"
 ]);
