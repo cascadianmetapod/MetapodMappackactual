@@ -1,6 +1,6 @@
 {
   "context": "client",
-  "identifier": "com.pa.metapod).metapodmappack",
+  "identifier": "com.pa.metapod.metapodmappack",
   "display_name": "Metapod's Amazing Map Pack!",
   "description": "A collection of fun, exciting and challenging maps for all your custom game needs.",
   "author": "cascadian",
