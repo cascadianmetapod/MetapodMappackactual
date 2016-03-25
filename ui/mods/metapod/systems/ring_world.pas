@@ -3,6 +3,7 @@
     "players": [
         2,
         4
+	],
    "creator": "(Metapod)",
     "version": "3",
     "date": "2016/03/06",

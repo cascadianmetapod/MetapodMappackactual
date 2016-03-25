@@ -1,5 +1,13 @@
 {
     "name": "IRIX",
+	"players": [
+        2,
+        10
+    ],
+	"creator": "(Metapod)",
+    "version": "1",
+    "date": "2016/03/12",
+    "description":"Just a 1v1 or 10p ffa map",
     "planets": [
         {
             "name": "Citadel",

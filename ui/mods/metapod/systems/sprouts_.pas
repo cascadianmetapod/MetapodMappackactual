@@ -1,5 +1,5 @@
 {
-    "name": "Sprouts ",
+    "name": "Sprouts",
     "players": [
         2,
         4
